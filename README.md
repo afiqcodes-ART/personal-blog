@@ -23,7 +23,7 @@ A comprehensive web-based Clinic Management System built using HTML, CSS, and Ja
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
-- LocalStorage or simple JSON (if applicable)
+
 
 ---
 
